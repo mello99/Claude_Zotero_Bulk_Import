@@ -4,7 +4,7 @@ Zotero Bulk ISBN & DOI Importer
 ================================
 Fetches bibliographic metadata for a list of ISBNs (via Open Library API)
 and DOIs (via CrossRef API), then uploads them to your Zotero library
-using the Zotero Web API v3.
+using the Zotero Web API v3. Must sign up for a Zotero account at Zotero.org and obtain an API key to use this script.
 
 Setup
 -----
